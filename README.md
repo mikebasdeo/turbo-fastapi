@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/93c188b6-abb2-4107-9da5-dff835a778b9)
+
 # 🧾 Report Builder App
 
 A full-stack  reporting tool built with **Next.js**, **Zustand**on the frontend and **FastAPI** with **SQLite** on the backend. This app allows users to compose beautiful reports from blocks (Text, Image, Table, Graph), save them, and retrieve them for preview or editing.
